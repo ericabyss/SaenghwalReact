@@ -7,7 +7,7 @@ class Subject extends Component {
       <header> 
         {/* 하나의 최상위 태그만 써야함 */}
         <h1>WEB</h1>
-        world wide web!
+        World wide web!
       </header>
     );
   }
